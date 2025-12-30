@@ -1,0 +1,9 @@
+D:\Code\CSharp\SimpleDebugView\SimpleDebugView\bin\Debug\SimpleDebugView.exe.config
+D:\Code\CSharp\SimpleDebugView\SimpleDebugView\bin\Debug\SimpleDebugView.exe
+D:\Code\CSharp\SimpleDebugView\SimpleDebugView\bin\Debug\SimpleDebugView.pdb
+D:\Code\CSharp\SimpleDebugView\SimpleDebugView\obj\Debug\SimpleDebugView.csproj.AssemblyReference.cache
+D:\Code\CSharp\SimpleDebugView\SimpleDebugView\obj\Debug\SimpleDebugView.Properties.Resources.resources
+D:\Code\CSharp\SimpleDebugView\SimpleDebugView\obj\Debug\SimpleDebugView.csproj.GenerateResource.cache
+D:\Code\CSharp\SimpleDebugView\SimpleDebugView\obj\Debug\SimpleDebugView.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\SimpleDebugView\SimpleDebugView\obj\Debug\SimpleDebugView.exe
+D:\Code\CSharp\SimpleDebugView\SimpleDebugView\obj\Debug\SimpleDebugView.pdb
